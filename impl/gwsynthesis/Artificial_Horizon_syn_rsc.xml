@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="Top" Lut="1" T_Register="1754(0)" T_Alu="554(0)" T_Lut="1317(1)" T_MULT9X9="1(0)" T_MULT18X18="2(0)" T_MULTALU36X18="2(0)" T_MULTADDALU18X18="1(0)" T_Bsram="20(0)">
+ <SubModule name="gw_gao_inst_0" Register="890" Alu="14" Lut="564" Bsram="18" T_Register="890(890)" T_Alu="14(14)" T_Lut="564(564)" T_Bsram="18(18)"/>
+ <SubModule name="u_PLL"/>
+ <SubModule name="u_IMU_MASTER" Register="39" Lut="45" T_Register="39(39)" T_Lut="45(45)"/>
+ <SubModule name="u_LCD_MASTER" Register="24" Lut="26" T_Register="24(24)" T_Lut="26(26)"/>
+ <SubModule name="u_IMU" Register="266" Lut="187" T_Register="266(266)" T_Lut="187(187)"/>
+ <SubModule name="u_Attitude" Register="414" Alu="508" Lut="131" MULT18X18="2" MULTALU36X18="2" T_Register="414(414)" T_Alu="508(508)" T_Lut="131(131)" T_MULT18X18="2(2)" T_MULTALU36X18="2(2)"/>
+ <SubModule name="u_LCD" Register="121" Alu="32" Lut="363" MULT9X9="1" MULTADDALU18X18="1" Bsram="2" T_Register="121(121)" T_Alu="32(32)" T_Lut="363(363)" T_MULT9X9="1(1)" T_MULTADDALU18X18="1(1)" T_Bsram="2(2)"/>
+</Module>

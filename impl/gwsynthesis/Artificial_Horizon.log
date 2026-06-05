@@ -1,0 +1,98 @@
+GowinSynthesis start
+Running parser ...
+Analyzing VHDL file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\Attitude_Engine.vhd'
+Analyzing entity 'attitude_engine'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\Attitude_Engine.vhd":9)
+Analyzing architecture 'rtl'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\Attitude_Engine.vhd":23)
+Analyzing VHDL file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\IMU_Controller.vhd'
+Analyzing entity 'imu_controller'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\IMU_Controller.vhd":10)
+Analyzing architecture 'rtl'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\IMU_Controller.vhd":34)
+WARN  (EX4967) : Cannot read from 'out' object 'o_tx_dv', use 'buffer' or 'inout' instead("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\IMU_Controller.vhd":133)
+Analyzing VHDL file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\LCD_Controller.vhd'
+Analyzing entity 'lcd_controller'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\LCD_Controller.vhd":19)
+Analyzing architecture 'rtl'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\LCD_Controller.vhd":33)
+WARN  (EX4967) : Cannot read from 'out' object 'o_tx_dv', use 'buffer' or 'inout' instead("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\LCD_Controller.vhd":418)
+Analyzing VHDL file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\SPI_Master.vhd'
+Analyzing entity 'spi_master'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\SPI_Master.vhd":37)
+Analyzing architecture 'rtl'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\SPI_Master.vhd":63)
+WARN  (EX4967) : Cannot read from 'out' object 'o_tx_ready', use 'buffer' or 'inout' instead("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\SPI_Master.vhd":161)
+WARN  (EX4967) : Cannot read from 'out' object 'o_tx_ready', use 'buffer' or 'inout' instead("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\SPI_Master.vhd":187)
+Analyzing VHDL file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\gowin_rpll\gowin_rpll.vhd'
+Analyzing entity 'gowin_rpll'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\gowin_rpll\gowin_rpll.vhd":13)
+Analyzing architecture 'behavioral'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\gowin_rpll\gowin_rpll.vhd":21)
+Analyzing VHDL file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\top.vhd'
+Analyzing entity 'top'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\top.vhd":5)
+Analyzing architecture 'rtl'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\top.vhd":24)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_crc32.v'
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v'
+Analyzing included file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_define.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Back to file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Analyzing included file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_top_define.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Back to file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Analyzing included file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_init.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Back to file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v'
+Analyzing included file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_top_define.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v":1256)
+Back to file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v":1256)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'
+Analyzing included file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_define.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing included file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_top_define.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing included file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_expression.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing included file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_parameter.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing included file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\impl\gwsynthesis\RTL_GAO\ao_0\gw_ao_init.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Back to file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v'
+Analyzing included file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\impl\gwsynthesis\RTL_GAO\ao_control\gw_con_top_define.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Back to file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Analyzing included file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\impl\gwsynthesis\RTL_GAO\ao_control\gw_con_parameter.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Back to file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Analyzing Verilog file 'C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\gw_jtag.v'
+Analyzing Verilog file 'C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\impl\gwsynthesis\RTL_GAO\gw_gao_top.v'
+Processing 'Top(RTL)'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\top.vhd":5)
+Processing 'Gowin_rPLL(Behavioral)'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\gowin_rpll\gowin_rpll.vhd":13)
+Processing 'SPI_Master(clks_per_half_bit=8)(RTL)'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\SPI_Master.vhd":37)
+WARN  (EX4749) : 'w_cpol' should be on the sensitivity list of the process. Signal missing is added and assuming complete sensitivity list specified. RTL design and post-synthesis netlist simulations may differ as a result("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\SPI_Master.vhd":102)
+WARN  (EX4387) : Incomplete sensitivity list specified, assuming completeness("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\SPI_Master.vhd":133)
+WARN  (EX4749) : 'w_cpol' should be on the sensitivity list of the process. Signal missing is added and assuming complete sensitivity list specified. RTL design and post-synthesis netlist simulations may differ as a result("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\SPI_Master.vhd":204)
+WARN  (EX4387) : Incomplete sensitivity list specified, assuming completeness("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\SPI_Master.vhd":208)
+Processing 'SPI_Master(RTL)'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\SPI_Master.vhd":37)
+Processing 'IMU_Controller(RTL)'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\IMU_Controller.vhd":10)
+'others' clause is never selected("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\IMU_Controller.vhd":215)
+'others' clause is never selected("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\IMU_Controller.vhd":237)
+Processing 'Attitude_Engine(RTL)'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\Attitude_Engine.vhd":9)
+'others' clause is never selected("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\Attitude_Engine.vhd":160)
+Processing 'LCD_Controller(RTL)'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\LCD_Controller.vhd":19)
+'others' clause is never selected("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\LCD_Controller.vhd":423)
+Compiling module 'gw_gao'("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\impl\gwsynthesis\RTL_GAO\gw_gao_top.v":1)
+Compiling module 'GW_JTAG'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\gw_jtag.v":1)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_CON\gw_con_top.v":377)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_top.v":3042)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v":1256)
+Extracting RAM for identifier '**'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_mem_ctrl.v":1256)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_crc32.v":74)
+Compiling module '**'("C:\Gowin\Gowin_V1.9.11.01_Education_x64\IDE\data\ipcores\GAO\GW_AO_0\gw_ao_match.v":374)
+Trying to combine GAO to RTL design
+NOTE  (EX0101) : Current top module is "Top"
+[5%] Running netlist conversion ...
+WARN  (CV0016) : Input i_LCD_MISO is unused("C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\src\top.vhd":16)
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\impl\gwsynthesis\Artificial_Horizon.vg" completed
+[100%] Generate report file "C:\Users\Ortiz\OneDrive\Desktop\VHDL projects\Artificial_Horizon\impl\gwsynthesis\Artificial_Horizon_syn.rpt.html" completed
+GowinSynthesis finish

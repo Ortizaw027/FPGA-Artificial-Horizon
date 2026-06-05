@@ -1,0 +1,60 @@
+[
+ {
+  "InstFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/top.vhd",
+  "InstLine" : 5,
+  "InstName" : "Top",
+  "ModuleFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/top.vhd",
+  "ModuleLine" : 5,
+  "ModuleName" : "Top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/top.vhd",
+    "InstLine" : 63,
+    "InstName" : "u_PLL",
+    "ModuleFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/gowin_rpll/gowin_rpll.vhd",
+    "ModuleLine" : 13,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/top.vhd",
+    "InstLine" : 70,
+    "InstName" : "u_IMU_MASTER",
+    "ModuleFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/SPI_Master.vhd",
+    "ModuleLine" : 37,
+    "ModuleName" : "SPI_Master"
+   },
+   {
+    "InstFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/top.vhd",
+    "InstLine" : 87,
+    "InstName" : "u_LCD_MASTER",
+    "ModuleFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/SPI_Master.vhd",
+    "ModuleLine" : 37,
+    "ModuleName" : "SPI_Master"
+   },
+   {
+    "InstFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/top.vhd",
+    "InstLine" : 104,
+    "InstName" : "u_IMU",
+    "ModuleFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/IMU_Controller.vhd",
+    "ModuleLine" : 10,
+    "ModuleName" : "IMU_Controller"
+   },
+   {
+    "InstFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/top.vhd",
+    "InstLine" : 124,
+    "InstName" : "u_Attitude",
+    "ModuleFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/Attitude_Engine.vhd",
+    "ModuleLine" : 9,
+    "ModuleName" : "Attitude_Engine"
+   },
+   {
+    "InstFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/top.vhd",
+    "InstLine" : 139,
+    "InstName" : "u_LCD",
+    "ModuleFile" : "C:/Users/Ortiz/OneDrive/Desktop/VHDL projects/Artificial_Horizon/src/LCD_Controller.vhd",
+    "ModuleLine" : 19,
+    "ModuleName" : "LCD_Controller"
+   }
+  ]
+ }
+]
