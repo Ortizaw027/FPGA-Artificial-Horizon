@@ -10,7 +10,7 @@ A real-time attitude indicator (artificial horizon) implemented in VHDL on the *
 
 ## Demo
 
-> Board tilts → horizon tilts. Pitch moves the horizon line up and down. Roll rotates it. A fixed aircraft symbol stays centre-screen as the world moves beneath it.
+>ADD IN LATER Board tilts → horizon tilts. Pitch moves the horizon line up and down. Roll rotates it. A fixed aircraft symbol stays centre-screen as the world moves beneath it.
 
 ---
 
