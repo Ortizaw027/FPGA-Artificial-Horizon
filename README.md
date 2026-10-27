@@ -25,6 +25,7 @@ A real-time attitude indicator (artificial horizon) implemented in VHDL on the *
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d2a2b16b-b94c-4df1-a901-a16a326f8d25" width="600" alt="Live Horizon Display">
 </p>
+
 ---
 
 ## Features
