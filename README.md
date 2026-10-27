@@ -148,7 +148,10 @@ The project targets the **Gowin IDE** (GOWIN_V1.9.x or later).
 ## Credits
 
 - **SPI_Master.vhd** — [NANDLAND](https://www.nandland.com/) (used with attribution)
-- All other modules — original VHDL
+- All other modules — original VHDL<img width="3024" height="4032" alt="IMG_3397" src="https://github.com/user-attachments/assets/854d1724-e81e-4eb0-ac82-a7d50c381d79" />
+<img width="3024" height="4032" alt="IMG_3399" src="https://github.com/user-attachments/assets/76bada49-665d-4bde-b7dc-ec5c1a321450" />
+<img width="3024" height="4032" alt="IMG_3398" src="https://github.com/user-attachments/assets/d2a2b16b-b94c-4df1-a901-a16a326f8d25" />
+
 
 ---
 
